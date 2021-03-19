@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/App-Course.iml" filepath="$PROJECT_DIR$/.idea/App-Course.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/Projects/GenericApp/GenericApp.iml" filepath="$PROJECT_DIR$/src/Projects/GenericApp/GenericApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/Libraries/GenericLib/GenericLib.iml" filepath="$PROJECT_DIR$/src/Libraries/GenericLib/GenericLib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/Projects/Sample/Sample.iml" filepath="$PROJECT_DIR$/src/Projects/Sample/Sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/Libraries/UtilLib/org-csystem-util.iml" filepath="$PROJECT_DIR$/src/Libraries/UtilLib/org-csystem-util.iml" />
+    </modules>
+  </component>
+</project>

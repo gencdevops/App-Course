@@ -60,7 +60,6 @@ public class ArrayUtil {
             a[i] = max;
         }
     }
-
     private ArrayUtil()
     {}
 
