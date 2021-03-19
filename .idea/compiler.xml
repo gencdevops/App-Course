@@ -7,8 +7,8 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="GenericApp" />
-        <module name="org-csystem-util" />
         <module name="GenericLib" />
+        <module name="org-csystem-util" />
         <module name="Sample" />
       </profile>
     </annotationProcessing>
