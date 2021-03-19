@@ -16,7 +16,8 @@ public final class RecursionUtil {
 
         char temp;
 
-        temp = c[left];
+        temp
+                = c[left];
         c[left] = c[right];
         c[right] = temp;
 
