@@ -17,7 +17,8 @@ public final class RecursionUtil {
         char temp;
 
         temp = c[left];
-        c[left] = c[right];
+        c[left] =
+                c[right];
         c[right] = temp;
 
         getReversed(c, left + 1, right - 1);
